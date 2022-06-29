@@ -1,0 +1,10 @@
+{
+    "email": "TestValid@email.com",
+    "pswd": "Test@123",
+    "cusfstnm": "TestFirstname",
+    "cuslstnm": "Testlastname",
+    "address": "dummyaddress",
+    "city" : "TestCity",
+    "pincd": "00000",
+    "phno" : "1234567890"
+}
